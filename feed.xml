@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>이로 블로그</title>
+    <link href="https://coder-iro.github.io/feed.xml" rel="self" />
+    <link href="https://coder-iro.github.io" />
+    <updated>1970-01-01T09:00:00+09:00</updated>
+    <author>
+        <name>이로</name>
+    </author>
+    <id>https://coder-iro.github.io</id>
+
+</feed>

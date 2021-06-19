@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://coder-iro.github.io/sitemap.xml
